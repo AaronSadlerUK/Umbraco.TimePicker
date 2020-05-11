@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>AaronSadler.TimePicker</id>
+    <version>0.0.1-beta</version>
+    <title>Umbraco.TimePicker</title>
+    <authors>Aaron Sadler</authors>
+    <owners>Aaron Sadler</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/AaronSadlerUK/UmbracoForms.hCaptcha</projectUrl>
+    <icon>512px-Time_font_awesome.png</icon>
+    <summary>A simple Time Picker for the Umbraco V8 backoffice</summary>
+    <description>A simple Time Picker for the Umbraco V8 backoffice</description>
+    <releaseNotes><![CDATA[0.0.1-beta Initial release]]></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>umbraco, umbraco-cms, time-picker</tags>
+	<dependencies>
+	  <group targetFramework=".NETFramework4.7.2">
+		  <dependency id="UmbracoCms" version="8.6.1" />
+	  </group>
+    </dependencies>
+  </metadata>
+      <files>
+      <file src="..\..\Umbraco.TimePicker\package.manifest" target="content\App_Plugins\Umbraco.TimePicker\" />
+      <file src="..\..\Umbraco.TimePicker\timepicker.controller.js" target="content\App_Plugins\Umbraco.TimePicker\" />
+      <file src="..\..\Umbraco.TimePicker\timepicker.html" target="content\App_Plugins\Umbraco.TimePicker\" />
+      <file src="..\512px-Time_font_awesome.png"/>
+    </files>
+</package>
