@@ -8,10 +8,10 @@ This package is supported on Umbraco 8.6+
 
 ### Installation
 
-TODO
+Umbraco.TimePicker is available from [Our Umbraco](https://our.umbraco.com/packages/backoffice-extensions/umbracotimepicker/), [NuGet](https://www.nuget.org/packages/AaronSadler.TimePicker/) or as a manual download directly from GitHub.
 
 #### Our Umbraco repository
-TODO
+You can find a downloadable package, along with a discussion forum for this package, on the [Our Umbraco](https://our.umbraco.com/packages/backoffice-extensions/umbracotimepicker/) site.
 
 ## Usage
 
