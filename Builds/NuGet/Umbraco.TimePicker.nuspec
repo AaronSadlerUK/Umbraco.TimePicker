@@ -16,7 +16,7 @@
     <copyright>Copyright 2020</copyright>
     <tags>umbraco, umbraco-cms, time-picker</tags>
 	<dependencies>
-	  <group targetFramework=".NETFramework4.7.2">
+	  <group>
 		  <dependency id="UmbracoCms" version="8.6.1" />
 	  </group>
     </dependencies>
