@@ -11,13 +11,13 @@
             group: "Common",
             /*the HTML file we will load for the editor*/
             editor: {
-                view: "~/App_Plugins/TimePicker/timepicker.html"
+                view: "~/App_Plugins/Umbraco.TimePicker/timepicker.html"
             }
         }
     ]
     ,
     // array of files we want to inject into the application on app_start
     javascript: [
-        '~/App_Plugins/TimePicker/timepicker.controller.js'
+        '~/App_Plugins/Umbraco.TimePicker/timepicker.controller.js'
     ]
 }
