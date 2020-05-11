@@ -19,7 +19,7 @@ This package adds a time picker to the Umbraco V8 backoffice.
 
 This is tested with **Umbraco V8.6.1**
 
-Until I make a packge you will need to place the TimePicker folder into the App_Plugins folder and restart the Application Pool for it to show up.
+Until I make a package, you simply need to place the TimePicker folder into the App_Plugins folder, and restart the Application Pool for it to show up.
 
 ### Contribution guidelines
 
